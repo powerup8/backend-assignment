@@ -31,7 +31,6 @@ Docker
 🚀 📌 ARCHITECTURE DIAGRAM 
 Mermaid Diagram 
 
-Paste this in your README:
 
 ```mermaid
 flowchart TD
